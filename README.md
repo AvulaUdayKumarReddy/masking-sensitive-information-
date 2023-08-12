@@ -1,5 +1,4 @@
-## masking sensitive nformation  
-#### steps to run project1   
+## masking sensitive nformation    
 ##### Installation  
 pyenv install 3.10.1  
 pyenv global 3.10.1  
