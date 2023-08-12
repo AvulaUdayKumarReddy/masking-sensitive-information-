@@ -1,12 +1,10 @@
-## Project1  
+## masking sensitive nformation  
 #### steps to run project1   
 ##### Installation  
 pyenv install 3.10.1  
 pyenv global 3.10.1  
 pip install --upgrade pip  
 ##### Running  
-- cd cs5293sp23-project1/
-- pipenv shell
 - python redactor.py --input '*.txt' --names --dates --phones --genders --address --output 'files/' --stats 'stdErr'
 - pipenv run python -m pytest (to run test cases)
 
