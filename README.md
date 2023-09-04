@@ -1,3 +1,4 @@
+## An application that uses NLP techniques and libraries like spacy, Hugging Face, nltk and regular expression hide the sensitive information in documents.
 ## masking sensitive nformation    
 ##### Installation  
 pyenv install 3.10.1  
